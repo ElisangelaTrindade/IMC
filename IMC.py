@@ -11,3 +11,5 @@ elif imc>30 and imc<=40:
     print('Obesidade')
 elif imc>40 :
     print('Obesidade Mórbida')
+
+input("Pressione enter para fechar.")
